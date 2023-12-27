@@ -7,5 +7,5 @@ interface UseCaseGatewayInjector {
         lateinit var self: UseCaseGatewayInjector
     }
 
-    val getBulbasaur: GETUseCase
+    val getUseCase: GETUseCase
 }

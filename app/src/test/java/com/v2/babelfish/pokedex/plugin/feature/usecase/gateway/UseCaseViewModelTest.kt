@@ -47,7 +47,7 @@ class UseCaseViewModelTest : BaseViewModelTest<UseCaseViewModel>() {
     override fun setupViewModel() {
         repository = mock()
         UseCaseGatewayInjector.self = object : UseCaseGatewayInjector {
-            override val getBulbasaur: GETUseCase
+            override val getUseCase: GETUseCase
                 get() = GETUseCase(repository)
         }
         viewModel = spy(UseCaseViewModel())

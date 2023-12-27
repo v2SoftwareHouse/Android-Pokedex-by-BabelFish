@@ -6,14 +6,14 @@ import com.v2.babelfish.pokedex.feature.usecase.gateway.UseCaseController
 import com.v2.babelfish.pokedex.feature.usecase.gateway.UseCaseGatewayInjector.Companion.self as injector
 
 open class UseCaseViewModel : BaseViewModel(), UseCaseController {
-    private val getBulbasaur by lazy { injectBulbasaurUseCase() }
+    private val getUseCase by lazy { injectUseCase() }
 
-    private fun injectBulbasaurUseCase(): GETUseCase {
-        return injector.getBulbasaur
+    private fun injectUseCase(): GETUseCase {
+        return injector.getUseCase
     }
 
     override fun doFetch(channelName: String) {
-        dispatchUseCase(POKEMON_NAME, getBulbasaur) { postValue(channelName, it) }
+        dispatchUseCase(POKEMON_NAME, getUseCase) { postValue(channelName, it) }
     }
 
     companion object {

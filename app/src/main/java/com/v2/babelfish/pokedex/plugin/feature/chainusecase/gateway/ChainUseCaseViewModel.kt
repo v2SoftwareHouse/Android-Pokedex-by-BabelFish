@@ -10,7 +10,6 @@ import com.v2.babelfish.pokedex.feature.chainusecase.gateway.ChainUseCaseGateway
 open class ChainUseCaseViewModel : BaseViewModel(), ChainUseCaseController {
     private val getBulbasaur by lazy { injectBulbasaurUseCase() }
     private val getVenusaur by lazy { injectVenusaurUseCase() }
-
     private fun injectBulbasaurUseCase(): GETBulbasaurUseCase {
         return injector.getBulbasaur
     }

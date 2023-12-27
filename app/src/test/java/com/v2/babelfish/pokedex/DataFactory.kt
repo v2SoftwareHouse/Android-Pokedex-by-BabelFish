@@ -31,16 +31,5 @@ class DataFactory {
 
         fun mockBulbasaurChainUseCaseData() = ChainUseCaseDataPokemon("Bulbasaur")
         fun mockIvysaurChainUseCaseData() = ChainUseCaseDataPokemon("Ivysaur")
-
-
-
-
-//        fun mockLanding() = Landing(randomInt(), randomUuid(), mockPokemonList())
-//
-//        fun mockEmptyLanding() = Landing(randomInt(), randomUuid(), mutableListOf())
-//
-//        fun mockPokemon() = Pokemon(randomUuid(), randomUuid(), randomBoolean())
-//
-//        fun mockPokemonList() = (0..10).map { mockPokemon() }.toMutableList()
     }
 }
