@@ -100,7 +100,7 @@ class App : Application() {
 
     private fun doUseCaseGatewayInjector() {
         UseCaseGatewayInjector.self = object : UseCaseGatewayInjector {
-            override val getBulbasaur: com.v2.babelfish.pokedex.feature.usecase.business.GETUseCase
+            override val getUseCase: com.v2.babelfish.pokedex.feature.usecase.business.GETUseCase
                 get() = com.v2.babelfish.pokedex.feature.usecase.business.GETUseCase(
                     injectUseCaseRepository()
                 )
