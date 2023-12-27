@@ -1,0 +1,277 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+MERGED from [io.github.v2softwarehouse:babel-fish:0.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/9de01035522d15596a85c92f6c1ecb88/transformed/babel-fish-0.0.1/AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.7.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0758729cf3463afeeda9f588b959532a/transformed/material-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b5f97613be130eb61f54a088947eaea/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0e6dc2ba746f22e80eb09fed69ca3663/transformed/constraintlayout-2.0.1/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62bade96551a0be430ed9def667c65fd/transformed/appcompat-1.5.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4711a2465b0276a8332bbd7441039471/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/caiosanchezchristino/.gradle/caches/transforms-3/521cb64a0b6000bf5bf50e7616d5aeaa/transformed/fragment-1.3.6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/630d2450de6783ef0e2d597d1d5a8aae/transformed/activity-1.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/553e4a9e0c10cecbd5a227abfacfef1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7bf13cd35dc256cc5ef69954dd7f31c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5dd747fc84cbc6f914ef2bcdfc5fe032/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/05dc9bd113139e29b8ccdf58d31f97c3/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/967d8cc3ddd1421c2dbc1799431e0865/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/2c7897cf75ca2570d47b7e5799af8532/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62a2be441643f578d523013985895a70/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/e312b85ce0bbec70f9f8a1677840c77e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1caa4f30e978bcd6c5d14a66c31c6b85/transformed/transition-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/dcfe9408cb5d895badb8651eee282e52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/21925cfaa9811755f189e627327b1d38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0a22466c749945d5d2e204faf20f3caa/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/08da6d0a38e7d516d2c9efbe950fd369/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/a34cfb9d4ed57188c9c34e1fc051452d/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b6c2a00cb25de9199127cea96aed071/transformed/core-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4490dfba82382f99a8a7fd5ae25694e1/transformed/savedstate-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/cdbc292c506f7a4d754907d5929fafb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7061bc4b6cb326ce18221b62d2f63bff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/25308ab459566d76c71e922bf6d06f51/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6cd42319e45fe3d81b64c224620db9b8/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/3f6dee022675756e183e05e4867f77ff/transformed/core-testing-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c358a5804f3cf8e9faed3107f854d221/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/67c369b5e45a62d787b664cb4182953f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/bf68f73570ca2b60d508dab809ee9d74/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1f563b242a8fac474f3c93d64196188a/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/927f2c6a4fd3e694ea53a3411f824e97/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/abf0c1424bc1db6021340ecad1aa372c/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/28fe1e055f88dacab8936adc736f4cf5/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5d07f87fc1adc3acf2ee98d751ccffd9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6f7874f79265239039f664b78356c2fc/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+	package
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:1-32:12
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:5:22-76
+uses-permission#android.permission.INTERNET
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:8:5-30:19
+MERGED from [com.google.android.material:material:1.7.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0758729cf3463afeeda9f588b959532a/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [com.google.android.material:material:1.7.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0758729cf3463afeeda9f588b959532a/transformed/material-1.7.0/AndroidManifest.xml:24:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0e6dc2ba746f22e80eb09fed69ca3663/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0e6dc2ba746f22e80eb09fed69ca3663/transformed/constraintlayout-2.0.1/AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/67c369b5e45a62d787b664cb4182953f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/67c369b5e45a62d787b664cb4182953f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:16:9-35
+	android:label
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:14:9-41
+	android:fullBackupContent
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:12:9-54
+	android:roundIcon
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:15:9-54
+	tools:targetApi
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:18:9-29
+	android:icon
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:13:9-43
+	android:allowBackup
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:10:9-35
+	android:theme
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:17:9-45
+	android:dataExtractionRules
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:11:9-65
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:9:9-28
+activity#com.v2.babelfish.pokedex.MainActivity
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:19:9-29:20
+	android:label
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:22:13-45
+	android:exported
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:21:13-36
+	android:theme
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:23:13-61
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:20:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:24:13-28:29
+action#android.intent.action.MAIN
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:25:17-69
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:25:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+MERGED from [io.github.v2softwarehouse:babel-fish:0.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/9de01035522d15596a85c92f6c1ecb88/transformed/babel-fish-0.0.1/AndroidManifest.xml:5:5-44
+MERGED from [io.github.v2softwarehouse:babel-fish:0.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/9de01035522d15596a85c92f6c1ecb88/transformed/babel-fish-0.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.7.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0758729cf3463afeeda9f588b959532a/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.7.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0758729cf3463afeeda9f588b959532a/transformed/material-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b5f97613be130eb61f54a088947eaea/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b5f97613be130eb61f54a088947eaea/transformed/appcompat-resources-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0e6dc2ba746f22e80eb09fed69ca3663/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0e6dc2ba746f22e80eb09fed69ca3663/transformed/constraintlayout-2.0.1/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62bade96551a0be430ed9def667c65fd/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62bade96551a0be430ed9def667c65fd/transformed/appcompat-1.5.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4711a2465b0276a8332bbd7441039471/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4711a2465b0276a8332bbd7441039471/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/caiosanchezchristino/.gradle/caches/transforms-3/521cb64a0b6000bf5bf50e7616d5aeaa/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] /Users/caiosanchezchristino/.gradle/caches/transforms-3/521cb64a0b6000bf5bf50e7616d5aeaa/transformed/fragment-1.3.6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/630d2450de6783ef0e2d597d1d5a8aae/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/630d2450de6783ef0e2d597d1d5a8aae/transformed/activity-1.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/553e4a9e0c10cecbd5a227abfacfef1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/553e4a9e0c10cecbd5a227abfacfef1f/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7bf13cd35dc256cc5ef69954dd7f31c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7bf13cd35dc256cc5ef69954dd7f31c9/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5dd747fc84cbc6f914ef2bcdfc5fe032/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5dd747fc84cbc6f914ef2bcdfc5fe032/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/05dc9bd113139e29b8ccdf58d31f97c3/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/05dc9bd113139e29b8ccdf58d31f97c3/transformed/lifecycle-viewmodel-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/967d8cc3ddd1421c2dbc1799431e0865/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/967d8cc3ddd1421c2dbc1799431e0865/transformed/lifecycle-viewmodel-savedstate-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/2c7897cf75ca2570d47b7e5799af8532/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/2c7897cf75ca2570d47b7e5799af8532/transformed/emoji2-views-helper-1.2.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62a2be441643f578d523013985895a70/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/62a2be441643f578d523013985895a70/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/e312b85ce0bbec70f9f8a1677840c77e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/e312b85ce0bbec70f9f8a1677840c77e/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1caa4f30e978bcd6c5d14a66c31c6b85/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1caa4f30e978bcd6c5d14a66c31c6b85/transformed/transition-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/dcfe9408cb5d895badb8651eee282e52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/dcfe9408cb5d895badb8651eee282e52/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/21925cfaa9811755f189e627327b1d38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/21925cfaa9811755f189e627327b1d38/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0a22466c749945d5d2e204faf20f3caa/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/0a22466c749945d5d2e204faf20f3caa/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/08da6d0a38e7d516d2c9efbe950fd369/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/08da6d0a38e7d516d2c9efbe950fd369/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/a34cfb9d4ed57188c9c34e1fc051452d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/a34cfb9d4ed57188c9c34e1fc051452d/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b6c2a00cb25de9199127cea96aed071/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7b6c2a00cb25de9199127cea96aed071/transformed/core-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4490dfba82382f99a8a7fd5ae25694e1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/4490dfba82382f99a8a7fd5ae25694e1/transformed/savedstate-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/cdbc292c506f7a4d754907d5929fafb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/cdbc292c506f7a4d754907d5929fafb9/transformed/annotation-experimental-1.3.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7061bc4b6cb326ce18221b62d2f63bff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/7061bc4b6cb326ce18221b62d2f63bff/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/25308ab459566d76c71e922bf6d06f51/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/25308ab459566d76c71e922bf6d06f51/transformed/lifecycle-runtime-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6cd42319e45fe3d81b64c224620db9b8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6cd42319e45fe3d81b64c224620db9b8/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/3f6dee022675756e183e05e4867f77ff/transformed/core-testing-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-testing:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/3f6dee022675756e183e05e4867f77ff/transformed/core-testing-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c358a5804f3cf8e9faed3107f854d221/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c358a5804f3cf8e9faed3107f854d221/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/67c369b5e45a62d787b664cb4182953f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/67c369b5e45a62d787b664cb4182953f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/bf68f73570ca2b60d508dab809ee9d74/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/bf68f73570ca2b60d508dab809ee9d74/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1f563b242a8fac474f3c93d64196188a/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.5.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/1f563b242a8fac474f3c93d64196188a/transformed/lifecycle-livedata-core-2.5.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/927f2c6a4fd3e694ea53a3411f824e97/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/927f2c6a4fd3e694ea53a3411f824e97/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/abf0c1424bc1db6021340ecad1aa372c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/abf0c1424bc1db6021340ecad1aa372c/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/28fe1e055f88dacab8936adc736f4cf5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/28fe1e055f88dacab8936adc736f4cf5/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5d07f87fc1adc3acf2ee98d751ccffd9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/5d07f87fc1adc3acf2ee98d751ccffd9/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6f7874f79265239039f664b78356c2fc/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/6f7874f79265239039f664b78356c2fc/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		ADDED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/caiosanchezchristino/Desktop/babel-fish/Android-Pokedex-by-BabelFish/app/src/main/AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/619580849d70fae2f38cdb941437fbb2/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/b2f7998f3c861eda76f8f8cf70eae63c/transformed/emoji2-1.2.0/AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+permission#com.v2.babelfish.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+uses-permission#com.v2.babelfish.pokedex.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.9.0] /Users/caiosanchezchristino/.gradle/caches/transforms-3/32c24c4501911417039b4f10e81f2214/transformed/core-1.9.0/AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.1] /Users/caiosanchezchristino/.gradle/caches/transforms-3/c5a5b93d49523f7eac7e797ca936323f/transformed/lifecycle-process-2.4.1/AndroidManifest.xml:32:17-78
